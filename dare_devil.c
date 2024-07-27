@@ -342,8 +342,6 @@ void sinister_mode(char soul_num){
                   *((char *)&heap+0x3)=*(heap_randm+0x0);
 		  *((char *)&heap+0x5)=*(heap_randm+0x1);
 	 }
-//printf("\n%p->%d   %p->%d   %p->%d   %p->%d  %p->%d\n",&stack,*((char *)&stack),((char *)&heap),*(char *)&heap,((char *)&stack-0x3),*((char *)&stack-0x3),((char *)&heap+0x3),*((char *)&heap+0x3),((char *)&heap+0x5),*((char *)&heap+0x5));
-time_t time_start,time_end;
 printf("𐌔𐌵𐌌𐌌Ꝋ𐌍 𐌕𐋅𐌄 𐌂𐌵𐌓𐌔𐌄𐌃 𐌍𐌵𐌌𐌁𐌄𐌓:- \033[0;31m");
 time_start=time(0);
 scanf("%hd",((char *)&soul_num+0x1));
@@ -690,8 +688,6 @@ else if(r==0x8){
 		*((char *)&stack-0x3)=*(arr+0x1);
 		*((char *)&heap+0x3)=*(arr+0x0);
 	}
-//	printf("%d\n",r);
-	//printf("%p->%d  %p->%d %p-> %d %p->%d\n",((char *)&stack-0x3),*((char *)&stack-0x3),((char *)&stack),*((char *)&stack),((char *)&heap),*((char *)&heap),((char *)&heap+0x3),*((char *)&heap+0x3));
      time_t start_time,end_time;
 	 printf("\033[0;37mįղѵօҟҽ էհҽ մղհօӀվ ղմʍҍҽɾ:- \033[0;31m");
 	 start_time=time(0);
@@ -709,7 +705,6 @@ else if(r==0x8){
 	if(differ>0xe){
 		*((char *)&i+0x1)=0x0;
 	}
-  //  printf("%d\n",*((char *)&i+0x1));
 if(r==0x1){
 		switch(*((char *)&i+0x1)){
 	case 1:
