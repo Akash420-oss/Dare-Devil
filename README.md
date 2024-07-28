@@ -66,3 +66,4 @@ To venture into this twisted game, you must first summon these dark tools:
   * Unleash your daring spirit and let the infernal challenge consume you...😈
   * Your soul is the ultimate prize in this dark game...👹
   * Victory tastes sweeter when the stakes are your soul...😈
+  * Don't be greedy...👿
