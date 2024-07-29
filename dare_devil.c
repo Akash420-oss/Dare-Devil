@@ -343,6 +343,7 @@ void sinister_mode(char soul_num){
 		  *((char *)&heap+0x5)=*(heap_randm+0x1);
 	 }
 printf("𐌔𐌵𐌌𐌌Ꝋ𐌍 𐌕𐋅𐌄 𐌂𐌵𐌓𐌔𐌄𐌃 𐌍𐌵𐌌𐌁𐌄𐌓:- \033[0;31m");
+time_t time_start,time_end;
 time_start=time(0);
 scanf("%hd",((char *)&soul_num+0x1));
 time_end=time(0);
