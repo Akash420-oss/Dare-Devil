@@ -22,8 +22,8 @@ This game is a guessing game, but it primarily involves addressing elements from
 
 ## Cursed Materials
 This infernal creation wrought from the dark arts of C language and the arcane spells of shell scripting...
-* C
-* Shell Scripting
+ - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+ - ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 # Awakening the Shadows
 I am leading you through the sinister labyrinth of this game...
