@@ -1,11 +1,14 @@
+<div align="center">
 <h1 color="red"> ▄︻デりﾑ尺乇😈り乇√ﾉﾚ═══━一</h1>
        
 
-![logo](https://github.com/Akash420-oss/Dare-Devil/blob/main/devil2.png)      ⠀
-
-* It's a hellish game-based project..😱 
-* It's going to be wickedly fun and challenging..🤫
-* Full of thrilling twists and turns...😉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+<img width="125" src="https://github.com/Akash420-oss/Dare-Devil/blob/main/Dare_Devil.png">
+<ul>
+<li>It's a hellish game-based project..😱</li> 
+<li>It's going to be wickedly fun and challenging..🤫</li>
+<li>Full of thrilling twists and turns...😉</li>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+</ul>
+</div>
 
 ## Ledger of the Damned👹⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
  * [What dark<-💀->secret lurks within??](#about-the-project)
