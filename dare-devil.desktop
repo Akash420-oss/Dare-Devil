@@ -1,6 +1,5 @@
 [ Desktop Entry ]
 Exec=sudo dare_devil
-GenericName=Dare Devil
 Icon=Dare_Devil
 Name=Dare Devil
 Terminal=true
