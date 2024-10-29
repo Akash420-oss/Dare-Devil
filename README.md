@@ -43,14 +43,11 @@ To venture into this twisted game, you must first summon these dark tools:
   ```
   cd Dare-Devil
   ```
-* Invoke the arcane powers of gcc to conjure the game's dark compilation..
+* Invoke the dark powers...
   ```
-  gcc -o dare_devil dare_devil.c -w
+  bash install.sh
   ```
-* Invoke its dark powers with the authority of a root user...
-  ```
-  chmod +x dare_devil && ./dare_devil
-  ```
+  
 ## Omnious..⚠️
 * Dare to embark on this adventure at your own discretion...❗
 * For your safety, avoid playing this game on your primary Linux OS...🚫
