@@ -3,5 +3,4 @@ sudo mv *.h /usr/include/ && sudo mv dare-devil.desktop /usr/share/applications/
 sudo gcc -o dare_devil dare_devil.c -w
 sudo rm -f dare_devil.c
 sudo mv dare_devil /usr/bin/
-sudo chmod +x dare_devil
 
