@@ -1,4 +1,3 @@
-system("sudo mkdir /usr/share/dare-devil/");
 void *soul_cap="/usr/share/dare-devil/Soul_data.txt";
 void create_soul(void *user_name,short int uid,char souls,char level){
         void *level_name,*devil_name;
