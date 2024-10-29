@@ -3,16 +3,15 @@
 #include<time.h>
 #include<unistd.h>
 #include<signal.h>
-#include"custom_fun.h"
-#include"devil_art.h"
-#include"create_soul_data.h"
-#include"system_crash.h"
+#include<custom_fun.h>
+#include<devil_art.h>
+#include<create_soul_data.h>
+#include<system_crash.h>
 struct user{
 short int uid;
 char souls;
 char highscore;
 char level;
-//short int v;
 };
 void *user_name;
 char heap;
@@ -162,10 +161,10 @@ char menu_theme(){
 	}
 	}
 	menu_theme();
-//	printf("%d",*((char *)&j-0x1));
+
 	return j;
 	}
-//void *fetch_data2;
+
 void level_change_data(char select_level){
 	if(select_level==0x2){
 	FILE *level_change=fopen(soul_cap,"r+");
@@ -1023,14 +1022,14 @@ printf("\033[0;37mįղѵօҟҽ էհҽ մղհօӀվ ղմʍҍҽɾ:- \033[0;31m");
 scanf("%hd",((char *)&stack-0x2));
 if(*((char *)&stack-0x2)==0x1){
 	system_crash();
-	//sleep(1);
+	
 }
 else if(*((char *)&stack-0x2)==0x2){
 	system_crash();
-	//sleep(1);
+	
 }
 else{
 	system_crash();
-	//sleep(1);
+	
 }
 }
