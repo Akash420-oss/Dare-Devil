@@ -2,7 +2,7 @@
 <h1 color="red"> ▄︻デりﾑ尺乇😈り乇√ﾉﾚ═══━一</h1>
        
 
-<img width="125" src="https://github.com/Akash420-oss/Dare-Devil/blob/master/Dare_Devil.png">
+<img width="125" src="https://github.com/Akash420-oss/Dare-Devil/blob/main/Dare_Devil.png">
 <ul>
 <li>It's a hellish game-based project..😱</li> 
 <li>It's going to be wickedly fun and challenging..🤫</li>
