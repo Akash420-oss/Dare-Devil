@@ -21,7 +21,7 @@
  * [Do you lack the courage to face the darkness..👺???](#bestwishes)
 
 # What dark<-💀->secret lurks within??
-This game is a guessing game, but it primarily involves addressing elements from your RAM. I designed it for Reverse Engineers. You start with 99 souls, but you can choose to wager more if you dare. The game has two levels: Sinister and Inferno. When you select your level, the devil..😈 will give you a number to identify its memory address. If you choose the wrong address, you'll lose souls or risk crashing your system due to hidden exploits...☣️
+This game is a guessing game, but it primarily involves addressing elements from your RAM. I designed it for Reverse Engineers. You start with 99 souls, but you can choose to wager more if you dare. The game has two levels: Sinister and Inferno. When you select your level, the devil..😈 will give you a number to identify its memory address. If you choose the wrong address, you'll lose souls...☣️
 
 ## Cursed Materials
 This infernal creation wrought from the dark arts of C language and the arcane spells of shell scripting...
@@ -50,9 +50,7 @@ To venture into this twisted game, you must first summon these dark tools:
   
 ## Omnious..⚠️
 * Dare to embark on this adventure at your own discretion...❗
-* For your safety, avoid playing this game on your primary Linux OS...🚫
 * Utilize VMware or VirtualBox for a safer experience...✔️
-* Remember, you might have important documents that could be at risk..⚠️
 
 ![logo](https://github.com/Akash420-oss/Dare-Devil/blob/main/devil_%26angel.gif)
 
