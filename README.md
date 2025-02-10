@@ -21,7 +21,9 @@
  * [Do you lack the courage to face the darkness..👺???](#bestwishes)
 
 # What dark<-💀->secret lurks within??
-This game is a guessing game, but it primarily involves addressing elements from your RAM. I designed it for Reverse Engineers. You start with 99 souls, but you can choose to wager more if you dare. The game has two levels: Sinister and Inferno. When you select your level, the devil..😈 will give you a number to identify its memory address. If you choose the wrong address, you'll lose souls...☣️
+- This game is a guessing game, but it primarily involves addressing elements from your RAM. I designed it for Reverse Engineers. You start with 99 souls, but you can choose to wager more if you dare. The game has two levels: Sinister and Inferno. When you select your level, the devil..😈 will give you a number to identify its memory address. If you choose the wrong address, you'll lose souls...☣️
+
+- If you crave more on this project, I've unleashed a write-up about the Daredevil room on Medium: <a href="https://medium.com/@akashsil2392/daredevil-write-up-tryhackme-01d1d715cc9c">DareDevil-Write-up-TryHackMe<a>
 
 ## Cursed Materials
 This infernal creation wrought from the dark arts of C language and the arcane spells of shell scripting...
@@ -29,7 +31,9 @@ This infernal creation wrought from the dark arts of C language and the arcane s
  - ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 # Awakening the Shadows
-I am leading you through the sinister labyrinth of this game...
+- If you're hungry for Capture the Flag, then dive into this wicked room on TryHackMe: <a href="https://tryhackme.com/jr/daredevil">DareDevil</a>
+- Or i am leading you through the sinister labyrinth of this game...
+
 ## Dark Desires..😈
 To venture into this twisted game, you must first summon these dark tools:
 * VMware or VirtualBox –> Your gateway to the virtual realm...
